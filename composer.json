@@ -1,5 +1,5 @@
 {
-  "name": "nwidart/laravel-menus",
+  "name": "obgov/laravel-menus",
   "description": "Laravel Menu management",
   "keywords": [
     "laravel",
@@ -11,8 +11,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "n.widart@gmail.com"
+      "name": "Bogdan Toporov",
+      "email": "toporovbo@gmail.com"
     },
     {
       "name": "Pingpong Labs",
@@ -21,10 +21,10 @@
   ],
   "require": {
     "php": ">=7.3",
-    "illuminate/support": "^8.0",
-    "illuminate/config": "^8.0",
-    "illuminate/view": "^8.0",
-    "laravelcollective/html": "6.2.*"
+    "illuminate/support": ">=8.0",
+    "illuminate/config": ">=8.0",
+    "illuminate/view": ">=8.0",
+    "laravelcollective/html": ">=6"
   },
   "require-dev": {
     "phpunit/phpunit": "^8.5",
